@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/africastalking",
+    "name": "adilimudassir/africastalking",
     "description": "This package makes it easy to send notifications via AfricasTalking with Laravel",
     "keywords": [
         "africastalking",
@@ -16,7 +16,7 @@
         "role": "Developer"
     }],
     "require": {
-        "php": ">=7.2.5",
+        "php": "^8.2",
         "africastalking/africastalking": "^3.0",
         "guzzlehttp/guzzle": "^6.2 || ^7.0",
         "illuminate/notifications": "5.5 - 11.0",
